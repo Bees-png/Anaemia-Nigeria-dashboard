@@ -47,13 +47,13 @@ To explore:
 
 ---
 
-## 📁 Tools Used
+## Tools Used
 - **Power BI Desktop** (dashboarding, DAX)
 - **WHO Anaemia Dataset** (CSV format)
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 - `Anaemia_Dashboard.pbix` – Power BI file
 - `8D58801_ALL_LATEST.csv` – Raw data
 - `README.md` – Project overview
