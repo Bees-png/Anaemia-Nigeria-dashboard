@@ -3,7 +3,7 @@
 This Power BI project analyzes the trend and burden of **anaemia in women aged 15–49** in **Nigeria**, with a focus on differences between **pregnant and non-pregnant women** over time. The data is sourced from WHO’s Global Health Observatory and visualized to provide actionable insights for public health stakeholders and policy makers.
 
 ## Dashboard Preview  
-![Female Mortality Dashboard](https://github.com/Bees-png/Female-Mortality-Dashboard-Excel/blob/main/MOTALITY.png.jpg)
+![Anaemia in Nigeria Women Dashboard](https://github.com/Bees-png/Anaemia-Nigeria-dashboard/blob/main/Anaemia%20in%20women%20dashboard.jpg)
 
 ## Project Objective
 
