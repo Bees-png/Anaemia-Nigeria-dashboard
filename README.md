@@ -32,13 +32,13 @@ To explore:
 
 
 
-### 🔍 Key Insights
+###  Key Insights
 - **Pregnant women** consistently show **higher anaemia rates** than non-pregnant women.
 - Anaemia has remained a persistent issue, fluctuating between **37% to 55%** over the past 20 years.
 - **No significant reduction trend** observed — suggesting limited national progress.
 - In recent years, rates have hovered around **50%**, highlighting a **critical maternal health gap**.
 
-### ✅ Recommendations
+###  Recommendations
 - **Strengthen nutrition programs** for pregnant women and girls of reproductive age.
 - **Enhance screening and early diagnosis** at the community level.
 - **Scale up iron supplementation** and health education in rural areas.
@@ -49,7 +49,6 @@ To explore:
 
 ## 📁 Tools Used
 - **Power BI Desktop** (dashboarding, DAX)
-- **Excel** (initial cleaning)
 - **WHO Anaemia Dataset** (CSV format)
 
 ---
@@ -58,22 +57,15 @@ To explore:
 - `Anaemia_Dashboard.pbix` – Power BI file
 - `8D58801_ALL_LATEST.csv` – Raw data
 - `README.md` – Project overview
-- `Dashboard_Screenshots/` – Visual snapshots for CV/LinkedIn
+- `Dashboard_Screenshots'
 
----
+--
 
-## 🔗 Live Dashboard (Optional)
-You can upload this to Power BI Service and embed the link here.
-
----
-
-## 👩🏽‍⚕️ About the Author
+## Author
 
 **Blessing Ofili**  
-Public Health Professional & Healthcare Data Analyst  
-📍 Abuja, Nigeria  
-🔗 [LinkedIn](https://linkedin.com/in/ofili-blessing-2b993a272)  
-💻 [GitHub](https://github.com/Bees-png)
+Public Health Professional & Healthcare Data Analyst
+🔗 [LinkedIn](https://linkedin.com/in/ofili-blessing-2b993a272)
 
 ---
 
