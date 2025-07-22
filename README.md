@@ -57,7 +57,6 @@ To explore:
 - `Anaemia_Dashboard.pbix` – Power BI file
 - `8D58801_ALL_LATEST.csv` – Raw data
 - `README.md` – Project overview
-- `Dashboard_Screenshots'
 
 --
 
